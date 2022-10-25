@@ -1,3 +1,8 @@
+/*
+Alexa Wright - modified from Josh Brake
+acwright@hmc.edu, jbrake@hmc.edu
+10/24/22
+*/
 /////////////////////////////////////////////
 // aes
 //   Top level module with SPI interface and SPI core
