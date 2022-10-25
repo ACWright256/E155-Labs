@@ -1,3 +1,8 @@
+/*
+Alexa Wright - modified from Josh Brake
+acwright@hmc.edu, jbrake@hmc.edu
+10/24/22
+*/
 /////////////////////////////////////////////
 // add_round_key_tb
 //  Module to test add_round_key module
